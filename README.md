@@ -31,4 +31,4 @@ If you have a suggestion that would make this better, please fork the repo and c
 Contact
 Abhay Kumar - ar5703233@gamil.com
 
-Project Link: https://github.com/abhirjpput/tic-tac-toe
+Project Link: https://github.com/abhirajpput/tic-tac-toe
